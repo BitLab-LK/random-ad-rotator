@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Random Ad Rotator
-Plugin URI: https://github.com/chavindu/random-ad-rotator
+Plugin Name: Random Ad Rotator | BitLab
+Plugin URI: https://github.com/BitLab-LK/random-ad-rotator
 Description: A plugin to rotate random ad images for multiple ad sizes.
 Version: 1.0.0
-Author: Chavindu Nuwanpriya
+Author: BitLab (Pvt) Ltd
 Author URI: https://bitlab.lk/
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
