@@ -1,4 +1,4 @@
-# Random Ad Rotator
+# WordPress Random Ad Rotator by BitLab
 
 **Tags:** ads, image ads, ad rotator, random ads  
 **License:** GPLv2 or later  
